@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="q1a1">Ampersand</string>
+    <string name="q1a2">Bracket</string>
+    <string name="q1a3">Colon</string>
+    <string name="q1a4">Pipe</string>
+</resources>
